@@ -1,6 +1,11 @@
 
 
 ```python
+#### 3 observations
+### 1. If we take current weather, South part of the world such as Australia has higher temperature than north. Also, temperature of ###cities around equator is between 60 - 80F. Latitudes with 20 degree+ temperature drops significantly from 20F to -20F
+### 2. Humidity of cities is independent of their distance from equator
+### 3. Cloudiness % of cities is independent of their distance from equator
+### 4. Wind speed of cities is between 5mph to 20 mph irrespective of their distance from equator
 #Dependencies
 import json
 import pandas as pd
